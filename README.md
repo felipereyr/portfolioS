@@ -1,8 +1,7 @@
-# Nombre del Proyecto
+# Porfolio Personal
 
-Descripción corta del proyecto.
+Welcome to my portfolio! 
+This project is my provisional portfolio to show some of the projects I have done. Being provisional, it is super simple, but in the future it will be brilliant!
 
-## Tabla de Contenidos
-1. [Descripción](#descripción)
-2. [Diseño](#diseño)
-3. [Tecnologías usadas](#tecnologías)
+-[Design](#diseño)
+-[Technologies used](#tecnologías)
