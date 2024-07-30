@@ -14,4 +14,4 @@ Here is the link to the mockup of the project
 
 ## Technologies used
 ![Astro](https://img.shields.io/badge/Astro-4E18A0?style=for-the-badge&logo=Astro&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/Tailwindcss-4E18A0?style=for-the-badge&logo=Tailwindcss&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-38BDF8?style=for-the-badge&logo=Tailwindcss&logoColor=white)
