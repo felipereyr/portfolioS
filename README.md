@@ -8,4 +8,9 @@ This project is my provisional portfolio to show some of the projects I have don
 
 
 ## Mockup
+
+Here is the link to the mockup of the project
+
+
 ## Technologies used
+![Astro](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Astro&logoColor=white)
