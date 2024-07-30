@@ -13,4 +13,4 @@ Here is the link to the mockup of the project
 
 
 ## Technologies used
-![Astro](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Astro&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-339933?style=for-the-badge&logo=Astro&logoColor=white)
